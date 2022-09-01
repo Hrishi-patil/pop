@@ -1,0 +1,9 @@
+2022-08-25 17:53:16,371 INFO     [AURUS.20.1.3.861]  SftpFileTransferHandler        [INIT] Logs uploading process start.
+2022-08-25 17:53:21,417 INFO     [AURUS.20.1.3.861]  ServiceSCPDetails              [25506:::NTANEJA-WIN10:::22482555] GET SCP DETAILS REQUEST <GetSCPDetailsRequest><POSID></POSID><CCTID>01</CCTID><CorporateID>25506</CorporateID></GetSCPDetailsRequest>
+2022-08-25 17:53:21,423 INFO     [AURUS.20.1.3.861]  ServiceSCPDetails              SCP Details Request {"GetSCPDetailsRequest":{"CCTID":"01","POSID":"","CorporateID":"25506"}}
+2022-08-25 17:53:21,424 INFO     [AURUS.20.1.3.861]  ServiceSCPDetails              this is the scp request {"CCTID":"01","POSID":"","CorporateID":"25506"}
+2022-08-25 17:53:21,441 INFO     [AURUS.20.1.3.861]  EnterprisePEDManager           [25506:::NTANEJA-WIN10:01:8030:22482555] Inside checkConnectivityStatus 
+2022-08-25 17:53:21,441 INFO     [AURUS.20.1.3.861]  EnterprisePEDManager           [25506:::NTANEJA-WIN10:01:8030:22482555] Current time 1661430201441 Heartbeat time 0
+2022-08-25 17:53:21,441 INFO     [AURUS.20.1.3.861]  EnterprisePEDManager           [25506:::NTANEJA-WIN10:01:8030:22482555] Inside Enterprise HB difference: 1661430201441
+2022-08-25 17:53:21,441 INFO     [AURUS.20.1.3.861]  AdapterPOSResponseBuilder      [25506:::NTANEJA-WIN10:01:8030:22482555] RESPONSE SENT TO POS ::
+2022-08-25 17:53:21,441 INFO     [AURUS.20.1.3.861]  ServiceSCPDetails              [25506:::NTANEJA-WIN10:01:8030:22482555] AESDK RESPONSE <GetSCPDetailsResponse><CCTID>01</CCTID><ResponseCode>60099</ResponseCode><POSID/><APPID/><ResponseText>PED NOT READY</ResponseText></GetSCPDetailsResponse>

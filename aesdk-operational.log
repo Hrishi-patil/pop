@@ -1,0 +1,19 @@
+2022-08-25 17:49:16,330 INFO     OperationalLogger                                  [INIT] @ AESDK Corporate Id  :: 25506 LOG upload starts after : 4 minutes
+2022-08-25 17:53:16,371 INFO     OperationalLogger                                  [INIT] Enabling logs uploading flow
+2022-08-25 17:53:16,371 INFO     OperationalLogger                                  [INIT] Logs uploading process start.
+2022-08-25 17:53:16,388 INFO     OperationalLogger                                  [INIT] INSIDE zipDirectory C:\Users\rushikeshp\Downloads\Aesdklogs
+2022-08-25 17:53:16,388 INFO     OperationalLogger                                  [INIT] No files to compress.
+2022-08-25 17:53:16,388 INFO     OperationalLogger                                  [INIT] No files to compress.
+2022-08-25 17:53:16,388 INFO     OperationalLogger                                  [INIT] No files to compress.
+2022-08-25 17:53:16,388 INFO     OperationalLogger                                  [INIT] No files to compress.
+2022-08-25 17:53:16,388 INFO     OperationalLogger                                  [INIT] No files to compress.
+2022-08-25 17:53:16,388 INFO     OperationalLogger                                  [INIT] No files to compress.
+2022-08-25 17:53:16,388 INFO     OperationalLogger                                  [INIT] No files to compress.
+2022-08-25 17:53:16,388 INFO     OperationalLogger                                  [INIT] Getting date from file.
+2022-08-25 17:53:16,388 INFO     OperationalLogger                                  [INIT] Listing all files name, which contains date :: 08-24-2022
+2022-08-25 17:53:16,388 INFO     OperationalLogger                                  [INIT] Files going to compress :: [C:\Users\rushikeshp\Downloads\Aesdklogs\_aesdk-operational_1_08-24-2022.log, C:\Users\rushikeshp\Downloads\Aesdklogs\_aesdk_1_08-24-2022.log]
+2022-08-25 17:53:16,388 INFO     OperationalLogger                                  [INIT] File Compressing start.
+2022-08-25 17:53:16,403 INFO     OperationalLogger                                  [INIT] No files to compress.
+2022-08-25 17:53:21,417 INFO     OperationalLogger                                  [INIT] GetSCPDetailsRequest going to write.
+2022-08-25 17:53:21,441 INFO     OperationalLogger                                  [INIT] SCP Details not fetched,trying for next pair if map is not empty
+2022-08-25 17:53:21,441 ERROR    OperationalLogger                                  [INIT] Problem with getting SFTP Details...
